@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravshukhu&label=Profile%20views&color=0e75b6&style=flat" alt="gauravshukhu" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,REACT.JS,BOOTSTRAP,NODE.JS,MONGO.DB**
+- 🌱 I’m currently learning **JAVASCRIPT,REACT.JS,BOOTSTRAP,NODE.JS,**
 
 - 📫 How to reach me **gaurav639147@gmail.com**
 
@@ -15,9 +15,9 @@
 <p align="left">
 <a href="https://twitter.com/gauravs18287788" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravs18287788" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gaurav shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav shukla" height="30" width="40" /></a>
-<a href="https://fb.com/gaurav shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gaurav shukla" height="30" width="40" /></a>
-<a href="https://instagram.com/shukla_x_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shukla_x_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gaurav_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gaurav_2003" height="30" width="40" /></a>
+
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
