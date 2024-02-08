@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NODEJS , C++ with DSA**
 
-- My Teachnical Skill ** HTML,CSS,JavaScript,ReactJs**
+- My Teachnical Skill  ** HTML,CSS,JavaScript,ReactJs**
 
 - 📫 How to reach me **gaurav639147@gmail.com**
 
