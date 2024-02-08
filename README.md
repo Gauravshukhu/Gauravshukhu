@@ -5,11 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravshukhu&label=Profile%20views&color=0e75b6&style=flat" alt="gauravshukhu" /> </p>
 
-- 🌱 I’m currently learning **JAVASCRIPT,REACT.JS,BOOTSTRAP,NODE.JS,**
+- 🌱 I’m currently learning **NODEJS , C++ with DSA**
+
+- My Teachnical Skill ** HTML,CSS,JavaScript,ReactJs**
 
 - 📫 How to reach me **gaurav639147@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
+
+  
+
+
+
+  
 
 
 
