@@ -9,7 +9,7 @@
 
 - My Teachnical Skill  ** HTML,CSS,JavaScript,ReactJs**
 
-- 📫 How to reach me **gaurav639147@gmail.com**
+- 📫 How to reach me **gaurav639147@gmail.com*8
 
 - ⚡ Fun fact **I think I am Funny**
   
