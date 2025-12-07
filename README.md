@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi,👋 I'm Gaurav Shukla 
 # 💫 About Me:
 Hi, I’m Gaurav Shukla, a passionate Frontend Developer with hands-on experience in building responsive and user-friendly web applications using React.js, JavaScript, Tailwind CSS, HTML & CSS.<br><br>I have 7 months of real-time experience working on UI development, component-based architecture, and API integrations. I focus on clean code, performance optimization, and seamless user experience.<br><br>I love solving problems, learning new technologies, and writing scalable code. I have worked on features like dynamic forms, reusable components, state management, and responsive layouts.<br><br>🔹 What I’m Looking For:<br>An opportunity as a Frontend Developer/React Developer where I can contribute to impactful projects, learn from experienced mentors, and grow professionally.
 
